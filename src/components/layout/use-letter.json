@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_use_letters",
+  "info": {
+    "displayName": "use_letter"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "sub_heading": {
+      "type": "text"
+    }
+  }
+}

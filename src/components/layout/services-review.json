@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_layout_services_reviews",
+  "info": {
+    "displayName": "Services_review"
+  },
+  "options": {},
+  "attributes": {
+    "services": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::service.service"
+    }
+  }
+}
